@@ -1,0 +1,58 @@
+#groupTimer {
+    font-size: clamp(4rem, 4rem + 10vw, 12rem);
+
+    align-items: center;
+    text-align: center;
+    display: grid;
+}
+
+#groupTimer #timer {
+    justify-self: center;
+    align-self: end;
+
+    padding-bottom: 2rem;
+    display: flex;
+}
+
+#groupTimer #groupButtons {
+    display: flex;
+    align-self: start;
+    justify-self: center;
+
+    gap: 2.2rem;
+}
+
+#groupTimer #groupButtons button svg {
+    width: clamp(3.2rem, 2rem + 10vw, 6rem);
+}
+
+#groupTimer #groupButtons button.disable svg path,
+#groupTimer #groupButtons button.disable,
+#groupTimer #groupButtons button.disable:hover {
+    cursor: default;
+    transition: none;
+    transform: none;
+    fill: var(--btn-disable);
+}
+
+@media (max-width: 950px)
+{
+    #groupTimer #timer {
+        padding-bottom: 0;
+    }
+
+    #groupTimer #groupButtons {
+        gap: 1.6rem;
+    }
+}
+
+@media (max-width: 450px)
+{
+    #groupTimer #timer {
+        padding-bottom: 2rem;
+    }
+
+    #groupTimer #groupButtons {
+        gap: 1rem;
+    }
+}
