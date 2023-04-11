@@ -1,7 +1,9 @@
 
 # Timer - Pomodoro
 
-Este projeto foi feito para quem deseja marcar seu tempo de ficar em foco e de descansar. Com 4 sons de fundo a disposição.
+Este projeto foi feito para quem deseja marcar seu tempo de ficar em foco e de descansar. 
+
+Com 4 sons de fundo a disposição.
 
 
 ![App Screenshot](./imgs/preVisualization.png)
