@@ -13,7 +13,7 @@ Com 4 sons de fundo a disposição.
 
 Este site responsivo foi feito feito com HTML, CSS e JavaScript **puro**. Com intuito de aprofundar nas bases do front-end, utilizando a programação declarativa, factorys e recursividade.
 
-Ele possui tema Light e Dark. E total controle sobre o som disponibilizado no site.
+Ele possui os temas Light e Dark. Além de total controle sobre o som disponibilizado no site.
 
 
 ## Feedback
