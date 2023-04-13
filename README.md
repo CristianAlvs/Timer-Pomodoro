@@ -6,6 +6,7 @@ Este projeto é destinado a pessoas que desejam controlar o tempo dedicado aos e
 Com 4 sons de fundo a disposição: Floresta, Chuva, Ambiente Cafeteria e Lareira.
 
 https://cristianalvs.github.io/Timer-Pomodoro
+
 ![App Screenshot](./imgs/preVisualization.png)
 
 
