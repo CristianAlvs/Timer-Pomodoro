@@ -3,7 +3,7 @@
 
 Este projeto é destinado a pessoas que desejam controlar o tempo dedicado aos estudos, trabalho e descanso.
 
-Com 4 sons de fundo a disposição.
+Com 4 sons de fundo a disposição: Floresta, Chuva, Ambiente Cafeteria e Lareira.
 
 
 ![App Screenshot](./imgs/preVisualization.png)
